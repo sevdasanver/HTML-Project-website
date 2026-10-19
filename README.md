@@ -9,8 +9,6 @@ A simple recipe website built with HTML and CSS.
 
 **Live Website:** [View my website](https://sevdasanver.github.io/HTML-Project-website/)
 
-https://sevdasanver.github.io/HTML-Project-website/
-
 **Features**
 - Styled background and text colors
 - Centered recipe image
